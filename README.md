@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yolanda-laurent-420b1979/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yolanda-laurent-420b1979/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yolanda-laurent-420b1979/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yolanda-laurent-420b1979/" height="30" width="40" /></a>
 <a href="https://kaggle.com/yolandalaurent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yolandalaurent" height="30" width="40" /></a>
 <a href="https://medium.com/@laurentyolanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@laurentyolanda" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/laurentyolanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="laurentyolanda" height="30" width="40" /></a>
