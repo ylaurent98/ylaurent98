@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yolanda</h1>
 <h3 align="center">A passionate data scientist from the UK, living in Romania</h3>
 
-- 🔭 I’m currently working on [Planetary Garden](•https://dadavie-planetary-garden-frontenddatamain4jt2zp.streamlit.app/)
+- 🔭 I’m currently working on [Planetary Garden](https://dadavie-planetary-garden-frontenddatamain4jt2zp.streamlit.app/)
 
 - 🌱 I’m currently learning QGIS & Geospatial Data Science
 
