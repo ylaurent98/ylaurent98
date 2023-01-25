@@ -4,7 +4,7 @@
 <h3 align="center">A passionate data scientist from the UK, living in Romania</h3>
 
 - 🔭 I’m currently working on **Planetary Garden**:(https://planetarygarden.streamlit.app/)
-- 🌱 I’m currently learning QGIS & Geospatial Data Science
+- 🌱 I’m currently learning Data Engineering, QGIS & Geospatial Data Science
 
 - 👯 I’m looking to collaborate on **Geospatial data science projects**
 
